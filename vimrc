@@ -127,8 +127,8 @@ set number
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Enable syntax highlighting
 syntax on
-
-colorscheme evening
+set t_Co=256
+colorscheme kolor
 "set background=dark
 
 " Set extra options when running in GUI mode
